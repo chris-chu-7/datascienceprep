@@ -13,3 +13,6 @@ Now we can have predefined value and we from equations can see that  α = Σ (al
 β = ȳ - x * Σ (all data points)((y - ȳ)(x - x̄))/(Σ (all data points)((x - x̄)^2)).
 
 After this we can plot the line of best fit and the scatterplot in the same graph using the matplotlib library and it seems like there's a negative correlation between crime rate and home value in Boston area. 
+
+
+I code the algorithms first all of them above, then after getting the algorithms in check then ensure that the software developer conventions (comments, description, error checking) is handled. 
